@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1bQFaGs4K8SCLRSxXJXZbccqUL1naDW0UXq0AxyAe+1gFtGVG18V8dMrTtoYUz+AIT9ZkgLf1xQCdWWC5a3Kw==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Semester III\\Final Project\\PL\\ActionFitness\\ActionFitness\\ActionFitness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SADDAM\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\SADDAM\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

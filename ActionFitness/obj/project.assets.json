@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0,Profile=windows": {
+      "System.Data.SQLite.Core/1.0.117": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "System.Data.SQLite.Core/1.0.117": {
+      "sha512": "lGfOhA3QQod9XhdWYqLgNgbgq5uZnVG6DtnhDAdPisbLpTTgZBNbeGnp+GWt8C+3EyaqBYTGJWXcxHlHKwo05A==",
+      "type": "package",
+      "path": "system.data.sqlite.core/1.0.117",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "system.data.sqlite.core.1.0.117.nupkg.sha512",
+        "system.data.sqlite.core.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0,Profile=windows": [
+      "System.Data.SQLite.Core >= 1.0.117"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nugroho\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\1 Pempro Lanjut\\ActionFitness\\ActionFitness\\ActionFitness\\ActionFitness.csproj",
+      "projectName": "ActionFitness",
+      "projectPath": "E:\\1 Pempro Lanjut\\ActionFitness\\ActionFitness\\ActionFitness\\ActionFitness.csproj",
+      "packagesPath": "C:\\Users\\Nugroho\\.nuget\\packages\\",
+      "outputPath": "E:\\1 Pempro Lanjut\\ActionFitness\\ActionFitness\\ActionFitness\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nugroho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60-windows": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net60-windows": {
+        "dependencies": {
+          "System.Data.SQLite.Core": {
+            "target": "Package",
+            "version": "[1.0.117, )"
+          }
+        }
+      }
+    }
+  }
+}

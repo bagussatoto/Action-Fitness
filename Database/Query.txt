@@ -1,0 +1,41 @@
+-- Fasilitas
+INSERT INTO fasilitas values ('F0003','Stair Stepper','8','L0010');
+INSERT INTO fasilitas values ('F0004','Sauna','2','L0001');
+INSERT INTO fasilitas values ('F0005','Chest Press','11','L0007');
+INSERT INTO fasilitas values ('F0006','Shoulder Press','3','L0008');
+INSERT INTO fasilitas values ('F0007','Leg Press','4','L0005');
+INSERT INTO fasilitas values ('F0008','Hot Yoga','2','L0004');
+INSERT INTO fasilitas values ('F0009','Pilates','2','L0003');
+INSERT INTO fasilitas values ('F0010','Purmotion','10','L0009');
+
+-- Membership
+INSERT INTO membership values ('S0003','Platinum','M0001','L0008');
+INSERT INTO membership values ('S0004','Platinum','M0002','L0007');
+INSERT INTO membership values ('S0005','Silver','M0004','L0001');
+INSERT INTO membership values ('S0006','Silver','M0005','L0002');
+INSERT INTO membership values ('S0007','Gold','M0006','L0003');
+INSERT INTO membership values ('S0008','Gold','M0007','L0004');
+INSERT INTO membership values ('S0009','Silver','M0008','L0010')
+INSERT INTO membership values ('S0010','Platinum','M0009','L0009');
+INSERT INTO membership values ('S0011','Silver','M0010','L000');
+INSERT INTO membership values ('S0012','Gold','M0011','L0005');
+
+-- Transaksi 
+INSERT INTO transaksi values ('R0006','02/01/2023','M0010','K0006','Ardi Mawa','1000000');
+INSERT INTO transaksi values ('R0007','03/01/2023','M0008','K0012','Rangga Hutapea','3000000');
+INSERT INTO transaksi values ('R0008','04/01/2023','M0003','K0006','Ardi Mawa','5000000');
+INSERT INTO transaksi values ('R0009','05/01/2023','M0004','K0012','Rangga Hutapea','4000000');
+INSERT INTO transaksi values ('R0010','06/01/2023','M0002','K0013','Asep Surya,'3500000');
+
+
+-- Kelas
+INSERT INTO  kelas values ('R0001','Sehat','Senin','Reguler','50');
+INSERT INTO  kelas values ('R0002','Rohani','Senin','VIP','30');
+INSERT INTO  kelas values ('R0003','Jasmani','Selasa','Reguler','50');
+INSERT INTO  kelas values ('R0004','Tampan','Selasa','VIP','30');
+INSERT INTO  kelas values ('R0005','Rebo','Rabu','VIP','30');
+INSERT INTO  kelas values ('R0006','Kuat','Rabu','VVIP','100');
+INSERT INTO  kelas values ('R0007','Terlatih','Kamis','Reguler','50');
+INSERT INTO  kelas values ('R0008','Amanah','Kamis','VIP','30');
+INSERT INTO  kelas values ('R0009','Berkah','Jumat','Reguler','150');
+INSERT INTO  kelas values ('R0010','Bersih','Sabtu','VVIP','100');

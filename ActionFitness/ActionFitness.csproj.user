@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\FrmEntryFasilitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmEntryKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmEntryKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmEntryMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmEntryMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmFasilitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FrmMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
