@@ -8,9 +8,10 @@
 <!-- End -->
 
 <!-- Gambar -->
-<img width="1009" alt="orc" src="https://user-images.githubusercontent.com/87259393/185617654-f8c62f65-e614-4d80-8af2-3b46cb29dd90.png">
-
-
+<p align="center">
+  <img width="250" src="https://user-images.githubusercontent.com/87259393/218282099-fe2939b5-b4dc-4af7-9bab-87f619f4662e.jpg" />  
+  </p>
+  
 
 
 <!-- End -->
@@ -44,15 +45,13 @@
 <!-- End -->
 
 
+
+## Laporan 
+https://drive.google.com/file/d/1UZ8woBwArXsYiLCGl7nF4t8i_ZDE4WxJ/view?usp=sharing
+
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
-
-
-
-## Laporan 
-
-
 
 
 ## Kritik Dan Saran 
