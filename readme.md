@@ -51,6 +51,13 @@ Untuk aplikasi dan dijalankan bisa melalui menu [Releases](https://github.com/ba
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
+## Penjelasan Video
+https://drive.google.com/file/d/1uch1uam0UkuBdJVTd1JpfNPmwVLOHI2m/view?usp=sharing
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 ## Laporan 
 https://drive.google.com/file/d/1UZ8woBwArXsYiLCGl7nF4t8i_ZDE4WxJ/view?usp=sharing
 
